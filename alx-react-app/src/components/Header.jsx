@@ -1,11 +1,9 @@
-function header() {
+function Header() {
     return (
-        <div>
-            <header>
-                <h1>My favourite cities</h1>
-            </header>
-        </div>
+        <header>
+            <h1>My Favorite Cities</h1>
+        </header>
     )
 }
 
-export default header;
+export default Header;
