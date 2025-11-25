@@ -5,6 +5,7 @@ function Navbar() {
     <nav
       style={{
         backgroundColor: '#333',
+        justifyContent: 'center',
         color: 'white',
         padding: '15px',
         display: 'flex',
