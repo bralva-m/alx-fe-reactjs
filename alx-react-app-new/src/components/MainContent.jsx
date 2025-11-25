@@ -7,10 +7,7 @@ function MainContent() {
         minHeight: '200px'
       }}
     >
-      <h2 style={{ textAlign: 'center' }}>Cities List</h2>
-      <p style={{ marginTop: '10px' }}>
-        These are some of the most beautiful cities around the world.
-      </p>
+      <p style={{ marginTop: '10px' }}>I love to visit New York, Paris, and Tokyo.</p>
     </main>
   );
 }
